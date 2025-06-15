@@ -5,23 +5,23 @@
 ## 💻 About Me
 
 - 🌱 Currently learning the **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-- 🔧 Exploring **Git & GitHub**, and learning **debugging techniques**
-- 💡 I enjoy turning ideas into real applications and websites
-- 🎯 Always eager to learn new technologies and improve my skills
+- 🔧 Exploring **Git & GitHub**, and improving my **debugging skills**
+- 💡 Passionate about turning ideas into real-world applications and websites
+- 🎯 Always eager to learn new technologies and enhance my development skills
 
 ## 📂 Projects
 
 ### 🌐 Student Management System Website
-> A web-based system to manage student records for educational institutions.  
-Tech Used: MERN Stack
+> A web-based system for managing student records in educational institutions.  
+**Tech Used**: MERN Stack
 
 ### 🔧 DeepSeek AI Clone Tool
-> A full-stack MERN application.  
-Tech Used: React, Node.js, Express, MongoDB
+> A full-stack MERN application inspired by DeepSeek AI.  
+**Tech Used**: React, Node.js, Express, MongoDB
 
-### 🧰 Book Store Mangement System Wesite
-> A full-stack MERN application.  
-Tech Used: React, Node.js, Express, MongoDB
+### 🧰 Book Store Management System Website
+> A full-stack MERN application for managing book inventory and users.  
+**Tech Used**: React, Node.js, Express, MongoDB
 
 ## 🛠️ Skills
 
@@ -40,7 +40,7 @@ Tech Used: React, Node.js, Express, MongoDB
 ## 📜 Certificates
 - Digital Marketing
 - DevOps for Web Development
-- MERN Stack (Self-learning through YouTube tutorials)
+- MERN Stack (Self-learning via YouTube tutorials)
 
 ## 🌐 Languages I Speak
 - English, Hindi, Urdu, Marathi
@@ -48,7 +48,7 @@ Tech Used: React, Node.js, Express, MongoDB
 ---
 
 📫 **Contact Me**:  
-You can reach out through GitHub or LinkedIn (links coming soon).
+Feel free to connect via GitHub or LinkedIn (links coming soon).
 
 ---
 
