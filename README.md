@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Uzma Sayyed
 
 🎓 I’ve completed my Bachelor’s degree in BBA(CA) from Poona College, Pune (SPPU).  
-📌 Currently awaiting final year results.
 
 ## 💻 About Me
 
