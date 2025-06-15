@@ -13,14 +13,15 @@
 
 ### 🌐 Student Management System Website
 > A web-based system to manage student records for educational institutions.  
-Tech Used: HTML, CSS, JavaScript, SQL
+Tech Used: MERN Stack
 
-### 🔧 Task Manager App (In Progress)
-> A full-stack MERN application for managing daily tasks.  
+### 🔧 DeepSeek AI Clone Tool
+> A full-stack MERN application.  
 Tech Used: React, Node.js, Express, MongoDB
 
-### 🧰 Portfolio Website (Coming Soon)
-> My personal portfolio built with HTML/CSS and hosted on GitHub Pages.
+### 🧰 Book Store Mangement System Wesite
+> A full-stack MERN application.  
+Tech Used: React, Node.js, Express, MongoDB
 
 ## 🛠️ Skills
 
